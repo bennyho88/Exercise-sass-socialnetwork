@@ -2,7 +2,7 @@
 
 ## What:
 
-Excercise for practicing Sass
+Exercise for practicing Sass
 
 ## Link: 
 
